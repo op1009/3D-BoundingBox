@@ -1,0 +1,8 @@
+einops
+matplotlib
+numpy
+opencv-python
+Pillow
+timm
+torch
+tqdm
